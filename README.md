@@ -10,4 +10,3 @@ Hardhat Runner, the CLI command to interact with Hardhat, is an extensible task 
 A lot of Hardhat's functionality comes from plugins, and, as a developer, you're free to choose which ones you want to use. Hardhat is unopinionated in terms of what tools you end up using, but it does come with some built-in defaults. All of which can be overriden.
 
 ![alt text](https://hardhat.org/hardhat-tutorial.svg)
-![al text](https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFastIterationImage.5b930b1f.png&w=1200&q=100)
